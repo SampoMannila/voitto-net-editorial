@@ -1,9 +1,14 @@
 # Voitto.net – Faktantarkistus
 
 Periaatteet
-- Ensisijaiset lähteet: Finlex (lait ja asetukset), eduskunta.fi (asiakirjat), STM ja Valvira (ohjeet ja lausunnot), MGA (kansainväliset lisenssikehykset).
+- Ensisijaiset lähteet: Finlex (lait ja asetukset), eduskunta.fi (asiakirjat), STM (ohjaus ja valmistelu), viranomaisohjeet, MGA (kansainvälinen vertailu).
 - Päivämäärät ja aikaleimat varmistetaan lähteistä.
 - Epäselvissä tapauksissa käytämme vähintään kahta riippumatonta lähdettä.
+- Terminologiassa käytämme täsmällisesti käsitettä kanavointiaste.
+
+Huomio valvontarakenteista
+- Nykytila: Valvira koordinoi rahapelihaittojen ehkäisyä.
+- EPÄVARMA: Valvontatehtäviin ja organisaatiorakenteisiin voi tulla muutoksia toimeenpanon yhteydessä (esim. mahdollinen Lupa- ja valvontavirasto). Päivitämme viittaukset heti, kun viralliset tiedot vahvistuvat.
 
 Menetelmä
 1) Väitteiden kartoitus: eritellään artikkelin jokainen todennettava fakta.
