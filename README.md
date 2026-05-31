@@ -1,11 +1,11 @@
 # Miksi Voitto.netin tietoon voi luottaa?
 
-Minulle päätoimittajana on ensiarvoisen tärkeää, että yleisömme voi luottaa sisältöömme. Siksi julkaisemme toimituksemme periaatteet ja prosessit täysin avoimesti. ✅
+Minulle päätoimittajana on ensiarvoisen tärkeää, että yleisömme voi luottaa sisältöömme. Siksi julkaisemme toimituksemme periaatteet ja prosessit avoimesti.
 
 Tämä repositorio kokoaa Voitto.netin toimitukselliset periaatteet, korjauskäytännön ja faktantarkistusmenetelmän. Tavoitteena on selkeä, lähteistetty ja läpinäkyvä julkaisutapa Suomen rahapelialaa koskevissa sisällöissä.
 
 Linkitykset ja viitekehys
-- Lainsäädäntömuutoksen (lisenssimalli 2027) faktat, lähteet ja sanasto: https://github.com/SampoMannila/suomi-rahapelilaki-2027
+- Lainsäädäntöuudistuksen (lisenssimalli 2027) faktat, lähteet ja sanasto: https://github.com/SampoMannila/suomi-rahapelilaki-2027
 - Profiili ja vastuuhenkilö: https://github.com/SampoMannila
 
 Ylläpito
