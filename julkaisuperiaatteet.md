@@ -5,8 +5,8 @@ Nämä periaatteet kuvaavat, miten Voitto.net tuottaa, arvioi ja päivittää to
 
 Periaatteet
 1) Täsmällisyys ja todennettavuus
-- Käytämme ensisijaisesti virallisia ja ensilähteitä (esim. Finlex, eduskunta.fi, STM, Valvira, MGA).
-- Erottamme selkeästi faktat, analyysin ja mielipiteen.
+- Käytämme ensisijaisesti virallisia ja ensilähteitä (esim. Finlex, eduskunta.fi, STM, viranomaisohjeet, MGA). (Huom: valvontarakenteet voivat muuttua toimeenpanon myötä; päivitämme lähdeviitteet sen mukaisesti.)
+- Erotamme selkeästi faktat, analyysin ja mielipiteen.
 - Kerromme lähteet ja aikaleimat, kun se on tarkoituksenmukaista.
 
 2) Riippumattomuus ja läpinäkyvyys
