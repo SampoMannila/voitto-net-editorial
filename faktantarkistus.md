@@ -1,14 +1,16 @@
 # Voitto.net – Faktantarkistus
 
 Periaatteet
-- Ensisijaiset lähteet: Finlex (lait ja asetukset), eduskunta.fi (asiakirjat), STM (ohjaus ja valmistelu), viranomaisohjeet, MGA (kansainvälinen vertailu).
+- Ensisijaiset lähteet: Finlex (lait ja asetukset), eduskunta.fi (asiakirjat), Sisäministeriö (rahapelipolitiikan ohjaus, intermin.fi/poliisiasiat/rahapelit), Poliisihallitus (rahapelivalvonta), Lupa- ja valvontavirasto (lvv.fi, 1.1.2026 alkaen), THL (haittojen tutkimus), STM (haittojen ehkäisyn ohjaus), MGA (kansainvälinen vertailu).
 - Päivämäärät ja aikaleimat varmistetaan lähteistä.
 - Epäselvissä tapauksissa käytämme vähintään kahta riippumatonta lähdettä.
-- Terminologiassa käytämme täsmällisesti käsitettä kanavointiaste.
+- Terminologiassa käytämme täsmällisesti käsitettä kanavointiaste ja virallista termiä toimilupajärjestelmä (rinnalla lisenssimalli).
 
-Huomio valvontarakenteista
-- Nykytila: Valvira koordinoi rahapelihaittojen ehkäisyä.
-- EPÄVARMA: Valvontatehtäviin ja organisaatiorakenteisiin voi tulla muutoksia toimeenpanon yhteydessä (esim. mahdollinen Lupa- ja valvontavirasto). Päivitämme viittaukset heti, kun viralliset tiedot vahvistuvat.
+Viranomaisrakenne (päivitetty 1/2026)
+- Rahapelipolitiikka ja lainsäädännön valmistelu: Sisäministeriö (SM).
+- Rahapelivalvonta: Poliisihallitus.
+- Lupa- ja valvontavirasto (Lvv) aloitti 1.1.2026; se kokosi Valviran, aluehallintovirastojen ja osan ELY-keskuksia tehtävät. Valviran toiminta päättyi 31.12.2025.
+- Rahapelihaittojen ehkäisy ja seuranta: STM ja THL.
 
 Menetelmä
 1) Väitteiden kartoitus: eritellään artikkelin jokainen todennettava fakta.
