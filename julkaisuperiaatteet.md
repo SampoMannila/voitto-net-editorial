@@ -5,7 +5,7 @@ Nämä periaatteet kuvaavat, miten Voitto.net tuottaa, arvioi ja päivittää to
 
 Periaatteet
 1) Täsmällisyys ja todennettavuus
-- Käytämme ensisijaisesti virallisia ja ensilähteitä (esim. Finlex, eduskunta.fi, STM, viranomaisohjeet, MGA). (Huom: valvontarakenteet voivat muuttua toimeenpanon myötä; päivitämme lähdeviitteet sen mukaisesti.)
+- Käytämme ensisijaisesti virallisia ja ensilähteitä: Finlex, eduskunta.fi, Sisäministeriö (rahapelipolitiikan ohjaus), Poliisihallitus (rahapelivalvonta), Lupa- ja valvontavirasto (lvv.fi, 1.1.2026 alkaen), THL ja STM (haittojen ehkäisy), MGA (kansainvälinen vertailu).
 - Erotamme selkeästi faktat, analyysin ja mielipiteen.
 - Kerromme lähteet ja aikaleimat, kun se on tarkoituksenmukaista.
 
@@ -14,7 +14,7 @@ Periaatteet
 - Mahdolliset sidonnaisuudet ja eturistiriidat tuodaan esiin aihekohtaisesti.
 
 3) Relevanssi ja yleisön etu
-- Käsittelemme erityisesti: pelilisenssit, vuoden 2027 lisenssiuudistus (kanavointiaste), verotus, vastuullinen pelaaminen, MGA, pikakasinot.
+- Käsittelemme erityisesti: rahapelitoimiluvat, vuoden 2027 uudistus ja kanavointiaste, verotus, vastuullinen pelaaminen, MGA, pikakasinot.
 - Painotamme käytännönläheistä, lukijaa hyödyttävää tietoa.
 
 4) Vastuullisuus
